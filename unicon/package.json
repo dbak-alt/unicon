@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "unicon",
-=======
-  "name": "counter",
->>>>>>> 9455e60a55ce04771647a357380dca69c78c3d3c
   "version": "0.1.0",
   "private": true,
   "dependencies": {

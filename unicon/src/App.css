@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: beige;
+  height: 100vh;
 }
 
 .App-logo {
@@ -12,10 +14,19 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.tex{
+  position: relative;
+  top:90px;
+}
+.Enter{
+  position: relative;
+  top: 100px;
+  background-color: rgb(114, 184, 224);
+  border-radius: 20%;
+}
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
